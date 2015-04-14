@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\pre-dexed\debug\additionnal-58e590789e7f7cb0efeb4dd42833f89bdcec7c9f.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\pre-dexed\debug\classes-5872babd44dff7e4b740eaf06b2eb0c1dc6f4c2e.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\libs\dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3-885f284c643708203c3efccb404823a5f8463d47.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\classes-6e517275ed9c233dcbf82429dfb2130b271c0a7f.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\json_simple-1.1-9e371e5f92b176cd7432eb91fe9f916984fe923c.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\pre-dexed\debug\mail-e17ca61ac40ec4dff345eac088d7d5453796be7d.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\pre-dexed\debug\classes-9f0aa85a406a0196585f123dd5d8431993dd6191.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\classes-82f755a3c0a9a4a11d332e503e6e4442f67191d3.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\pre-dexed\debug\activation-12a13687272cc866f6ccc498caf9fa8b59dc3132.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\CloudSync\build\intermediates\pre-dexed\debug\json_simple-1.1-2d066dc560b0b10adcc2570f17852b5afed14c2e.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\activation-f92ab5cad5c69285c8b386cf0989ea75323ae9dc.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\additionnal-866235e50f8276d8aaec1bf56e866c5ed5226bf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abhitej\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\support-v4-19.1.0-4e49b6517d52bd4cde6010e4284c8449e889bc96.jar" />
+    </item>
+    <item
+        jar="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\MS Related\SE1\Project\workspace\NavBarTry\cloudSync_old\CloudSync\build\intermediates\pre-dexed\debug\mail-a18184b2fab1eb6b1fdb755a116ad39935bcca7d.jar" />
+    </item>
+
+</items>
